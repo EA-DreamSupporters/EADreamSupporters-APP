@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563081297974",
+    "project_id": "eads-190f1",
+    "storage_bucket": "eads-190f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563081297974:android:0bd4d3ecccd88fc378d897",
+        "android_client_info": {
+          "package_name": "com.example.eads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563081297974-gc9e4q288a6tm6o4c7o2gpkp02qsoo74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP1_Q9CKc9rb3xuQIhT8vcmXIRHQwj_BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563081297974-2080o7uafvtisucbg6qpp25fe6eidrsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
